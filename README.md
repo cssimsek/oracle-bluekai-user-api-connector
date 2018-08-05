@@ -15,5 +15,5 @@ Enter your  bkuid and bksecreket in the credentials.json file
 ## Write Other System Audience Classification
 [oracle_dmp_api_request_classify_impl.js](oracle_dmp_api_request_classify_impl.js) contains an example which:
 1. Calls the https://api.tags.bluekai.com/getdata/ endpoint
-2. Syncs another systems id with a phint defined in
+2. Syncs another systems id with a phint defined in Bluekai
 3. Server response contains a categories array which the other system id belongs to in Bluekai
