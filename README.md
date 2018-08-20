@@ -1,5 +1,5 @@
 # Oracle Bluekai User API Connector
-JS Translation of Oracle's [official Python based example](https://goo.gl/JqXX5T)
+JS (NodeJS)Translation of Oracle's [official Python based example](https://goo.gl/JqXX5T)
 
 # Enter Credentails
 Enter your  bkuid and bksecreket in the credentials.json file
